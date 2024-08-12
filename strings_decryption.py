@@ -1,7 +1,6 @@
-#TODO write a description for this script
+#TODO Decrypting the strings
 #@author Sai Bharath Vadhyar
 
-#TODO Add User Code Here
 
 from __main__ import currentProgram
 
