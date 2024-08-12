@@ -4,12 +4,9 @@
 
 from __main__ import currentProgram
 
-program=currentProgram 
-
 from javax.swing import JOptionPane
-from ghidra.util import Msg
 
-
+program=currentProgram 
 
 arrayAddress=JOptionPane.showInputDialog(None,"Enter the address of the array:","array address Input",JOptionPane.QUESTION_MESSAGE)
 
