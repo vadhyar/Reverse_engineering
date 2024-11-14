@@ -4,6 +4,7 @@ This is the first binary of the day in my "Two in a Day" reverse engineering str
 "Difficulty": "easy"
 "tools needed": "Ghidra and x32 debugger"
 "Description of the challenge" "Identify the password that prompts you to enter while executing the binary"
+"Hash of the binary":"660b0870cddae72ae250bfae"
 
 Step1: Identify the string "enter the password" in "Defined Strings" in "Ghidra" 
 Step2: Find the references to the string in the binary, that takes us to the function in which the string "enter the password" is referenced.
