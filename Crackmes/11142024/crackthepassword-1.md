@@ -1,8 +1,8 @@
 This is the first binary of the day in my "Two in a Day" reverse engineering streak where i reverse two binaries in a day. I started with an easy one. 
 
-"Challenge name": "crack the password by abc00012345"
-"Difficulty": "easy"
-"tools needed": "Ghidra and x32 debugger"
+"Challenge name": "crack the password by abc00012345"\n
+"Difficulty": "easy"\n
+"tools needed": "Ghidra and x32 debugger"\n
 "Description of the challenge" "Identify the password that prompts you to enter while executing the binary"
 "Hash of the binary":"660b0870cddae72ae250bfae"
 
