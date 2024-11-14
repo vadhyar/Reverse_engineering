@@ -14,6 +14,11 @@ Here is the decompiled function:
 
 ![function's decompilation](crackme1.disassembly.png)
 
+As we observe the function, a function takes the input and compares with a string using "_strcmp" function. To find the password, open the binary in the debugger.
+Set the breakpoints at the function which takes the password and also on the "_strcmp" to identify the password
+
+
+
 
 
 
