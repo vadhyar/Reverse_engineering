@@ -12,7 +12,7 @@ Step2: Find the references to the string in the binary, that takes us to the fun
 
 Here is the decompiled function:
 
-![function's decompilation](Crackmes/11142024/)
+![function's decompilation](Reverse_engineering/Crackmes/11142024/crackme1.disassembly.png)
 
 
 
